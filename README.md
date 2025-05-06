@@ -1,2 +1,2 @@
 # AlgoTone
-Bass Compressor
+VCA Compressor
