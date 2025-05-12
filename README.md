@@ -1,2 +1,3 @@
 # AlgoTone
 
+Program-dependent compression
