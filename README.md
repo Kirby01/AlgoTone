@@ -1,3 +1,3 @@
 # AlgoTone
 
-Program-dependent compression
+Attack and release program dependent compressor. Custom algorithm. 
