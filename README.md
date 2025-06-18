@@ -1,5 +1,5 @@
 # AlgoTone
-Compressor For Bass Guitar. Added look-ahead. <br>
+Compressor For Bass Guitar.  <br>
 Threshold is set by input gain. <br>
 <img src="AlgoTone.jpg">
 
